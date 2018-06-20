@@ -1,6 +1,6 @@
 # DungeonCrawl
 
-Run "Play.java" to start the applet.
+Run as Java Applet "src\dungeoncrawler\Play.java" to start the applet.
 
 Arrow Keys to move
 
