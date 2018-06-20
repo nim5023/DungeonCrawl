@@ -240,7 +240,7 @@ public class WorldHandler {
             g2d.drawImage(Up.worldImage, Up.X-(Up.worldImage.getWidth(null)/2), Up.Y- (Up.worldImage.getHeight(null)/2), null);
             g2d.drawImage(Down.worldImage, Down.X-(Down.worldImage.getWidth(null)/2), Down.Y- (Down.worldImage.getHeight(null)/2), null);
   
-             if( BattleHandler.MonsterLevel==2){
+             if( BattleHandler.MonsterLevel==2){ 
            g2d.setFont(new Font(Font.MONOSPACED, Font.BOLD, 30));
            g2d.setColor(Color.BLACK);
            g2d.drawString("Z: Menu",500, 100);
